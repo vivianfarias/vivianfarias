@@ -7,8 +7,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vivian-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivian-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vivian-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vivian-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Vivian" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911723197404168215/911723334146859038/Webp.net-gifmaker.gif?width=594&height=594">
 </div>
   
